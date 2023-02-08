@@ -18,3 +18,16 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.country_item {
+  list-style: none;
+  display: inline-block;
+}
+
+p {
+  font-weight: 700;
+}
+
+span {
+  font-weight: 300;
+}
